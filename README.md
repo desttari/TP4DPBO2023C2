@@ -2,7 +2,7 @@
 TP4 2100506
 
 ## Janji
-Saya Destira Lestari Saraswati dengan NIM 2100506 mengerjakan LP 12 Praktikum DPBO dalam mata kuliah Desain Pemrograman Berorientasi Objek untuk keberkahan-Nya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin.
+Saya Destira Lestari Saraswati dengan NIM 2100506 mengerjakan TP4 Praktikum DPBO dalam mata kuliah Desain Pemrograman Berorientasi Objek untuk keberkahan-Nya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin.
 
 ## Deskripsi Program
 Program pengelola data anggota dan asal negaranya melalui antarmuka pengguna grafis (GUI). Program ini menggunakan arsitektur MVC (Model-View-Controller) untuk memisahkan logika aplikasi, tampilan, dan pengelolaan data. Struktur direktori program sebagai berikut:
@@ -17,6 +17,7 @@ Program pengelola data anggota dan asal negaranya melalui antarmuka pengguna gra
 - `negara.php` berfungsi sebagai file untuk mengelola data negara.
 
 ## Video preview program
+https://github.com/desttari/TP4DPBO2023C2/assets/100773981/1a9b3880-7d68-4c90-897d-f4982a05d022
 
 
 ## Alur Menjalankan Program
@@ -45,6 +46,7 @@ Program ini memiliki beberapa batasan sebagai berikut:
 ## Design Database dan Penjelasan Singkat
 
 Database program ini terdiri dari dua tabel utama: `members` dan `negara`. Berikut adalah penjelasan singkat tentang kedua tabel tersebut:
+
 ![dbtp4](https://github.com/desttari/TP4DPBO2023C2/assets/100773981/850cd87b-c33f-4fb5-a088-f9fe33ef00af)
 
 1. Tabel `members`:
@@ -62,3 +64,9 @@ Database program ini terdiri dari dua tabel utama: `members` dan `negara`. Berik
 Perlu diperhatikan bahwa jika ada negara yang dihapus tetapi masih terdapat data anggota yang terhubung ke negara tersebut, negara tersebut tidak dapat dihapus. Ini membantu menjaga agar data anggota tidak hilang.
 
 ## Screenshot program
+![Screenshot (69)](https://github.com/desttari/TP4DPBO2023C2/assets/100773981/dd2fd2a6-9579-4519-a31a-ad3e293e246e)
+![Screenshot (70)](https://github.com/desttari/TP4DPBO2023C2/assets/100773981/90977cd7-a8b2-4d38-be5f-600e9af76703)
+![Screenshot (65)](https://github.com/desttari/TP4DPBO2023C2/assets/100773981/99d83c87-3080-4ae1-9c93-10265eaf1804)
+![Screenshot (63)](https://github.com/desttari/TP4DPBO2023C2/assets/100773981/b8475ff9-677d-4b2a-b11f-fe8b684faa71)
+![Screenshot (64)](https://github.com/desttari/TP4DPBO2023C2/assets/100773981/302c9ebc-8959-49d7-bfb0-d577e98d52db)
+![Screenshot (68)](https://github.com/desttari/TP4DPBO2023C2/assets/100773981/c1c9d5d0-f726-4c81-8062-ca9cec86de74)
